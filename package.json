@@ -1,0 +1,13 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sev": "browser-sync start --server --port 9090",
+    "weinre" : "weinre --boundHost 192.168.2.103"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
